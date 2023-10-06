@@ -1,5 +1,4 @@
 
-<h1 align="center"> I haven't re-released it yet, tinatamad pa.</h1>
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/banner.png", width="500", height="500">
 </p>
@@ -13,7 +12,7 @@
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_SKID_REVEAL.git
 * cd DEDSEC_SKID_REVEAL
-* pip3 install pystyle pycryptodome tabulate
+* sudo pip3 install pystyle pycryptodome tabulate
 * sudo python3 dedsec_skidreveal.py
 
 ### TESTED ON FOLLOWING
