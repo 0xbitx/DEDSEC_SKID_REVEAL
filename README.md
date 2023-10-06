@@ -8,7 +8,7 @@
 
 ### SCREENSHOT
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/banner.png", width="500", height="500">
+<img src="https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/img.png", width="500", height="500">
 
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_SKID_REVEAL.git
