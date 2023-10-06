@@ -3,7 +3,7 @@
 <img src="https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/banner.png", width="500", height="500">
 </p>
 <h1 align="center"> DEDSEC_SKID_REVEAL</h1>
-<h4 align="center">DEDSEC_SKID_REVEAL</h4>
+<h4 align="center">DEDSEC_SKID_REVEAL is a tool designed to capture user information like (ipv4, ipv6) (wifi info), along with hardware information and camera shot, It then automatically sends this data to your Discord server.</h4>
 
 ### SCREENSHOT
 <p align="center">
