@@ -5,6 +5,14 @@
 <h1 align="center"> DEDSEC_SKID_REVEAL</h1>
 <h4 align="center">DEDSEC_SKID_REVEAL is a tool designed to capture user information like (ipv4, ipv6) (wifi info), along with hardware information and camera shot, It then automatically sends this data to your Discord server.</h4>
 
+### INFORMATION CAN DUMP
+* IPV4
+* IPV6
+* MAC ADDRESS
+* HOSTNAME
+* WIFI SSID & PASSWORD
+* HARDWARE INFORMATION (OS, CPU, GPU, BRAND, RAM, RESOLUTION)
+
 ### SCREENSHOT
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC_SKID_REVEAL/blob/main/img.png", width="1000", height="1000">
