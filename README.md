@@ -21,8 +21,8 @@
 ### INSTALLATION [KALI - PARROT]
 * git clone https://github.com/0xbitx/DEDSEC_SKID_REVEAL.git
 * cd DEDSEC_SKID_REVEAL
-* sudo pip3 install pystyle pycryptodome tabulate
-* sudo python3 dedsec_skidreveal.py
+* sudo pip3 install pystyle tabulate
+* sudo ./dedsec_skidreveal
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
