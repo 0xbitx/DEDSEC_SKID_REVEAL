@@ -22,16 +22,12 @@
 * git clone https://github.com/0xbitx/DEDSEC_SKID_REVEAL.git
 * cd DEDSEC_SKID_REVEAL
 * sudo pip3 install pystyle tabulate
+* sudo chmod dedsec_skidreveal
 * sudo ./dedsec_skidreveal
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
-* Ubuntu
-
-### LANGUAGE 
-* Python
-
 
 ## Support
 
